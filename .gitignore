@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment variables (DO NOT SHARE THIS FILE!)
+.env
+
+# Puppeteer cache & logs
+puppeteer-screenshots/
+puppeteer-trace.json
+debug.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs & temporary files
+*.log
+*.tmp
+*.cache
+
+# VS Code settings
+.vscode/
